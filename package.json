@@ -1,0 +1,19 @@
+{
+  "name": "project-testauto",
+  "version": "1.0.0",
+  "description": "ecoblissbath test auto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menu-bit/project-testauto.git"
+  },
+  "author": "menaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menu-bit/project-testauto/issues"
+  },
+  "homepage": "https://github.com/menu-bit/project-testauto#readme"
+}
